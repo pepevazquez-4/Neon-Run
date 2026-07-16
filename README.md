@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://imgur.com/a/OEuTXfV" alt="Neon Run" width="80">
+  <img src="https://imgur.com/undefined" alt="Neon Run" width="80">
   <br>
   <b>NEON RUN</b>
 </h1>
