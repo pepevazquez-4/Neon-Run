@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://imgur.com/undefined" alt="Neon Run" width="80">
+  <img src="https://hotemoji.com/images/emoji/d/1u4x33-1f3c3.png" alt="Neon Run" width="80">
   <br>
   <b>NEON RUN</b>
 </h1>
@@ -27,8 +27,7 @@
 
 ### 🎥 Screenshots del Menú
 <p align="center">
-  <!-- Reemplaza el link de abajo con el link de la captura de pantalla de tu juego -->
-  <img src="https://i.imgur.com/TUS3XUq.png" alt="Neon Run Menu" width="800" style="border-radius: 10px; border: 2px solid #00F0FF;"/>
+  <img src="https://i.imgur.com/QERu3O5.png" alt="Neon Run Menu" width="800" style="border-radius: 10px; border: 2px solid #00F0FF;"/>
 </p>
 
 ---
