@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://hotemoji.com/images/emoji/d/1u4x33-1f3c3.png" alt="Neon Run" width="80">
+  <img src="file:///var/folders/3l/ht2v5r3x0x3ccwxct_f4v2500000gn/T/TemporaryItems/NSIRD_screencaptureui_6LvXvn/Captura%20de%20Pantalla%202026-07-16%20a%20la(s)%202.34.58%20p.m..png" alt="Neon Run" width="80">
   <br>
   <b>NEON RUN</b>
 </h1>
