@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://i.imgur.com/3WTksv9.png" alt="Neon Run Banner" width="800" style="border-radius: 10px;"/>
-</p>
-
-<h1 align="center"><b>NEON RUN</b></h1>
+<h1 align="center">
+  <br>
+  <b>NEON RUN</b>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2022.3+-black?style=for-the-badge&logo=unity&logoColor=white" />
